@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: sans-serif;
+}
+body{
+    background-image: url(https://www.zarla.com/images/zarla-shop-stock-1x1-2400x2400-20220124-jyf4xp648jqxjqcjj9dc.png?crop=1:1,smart&width=250&dpr=2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#h1{
+    line-height: 64px;
+    text-align: center;
+}
+.wrapper{
+    width: 95%;
+    margin: 0 auto;
+}
+#search-container{
+    margin: 1em 0;
+}
+#search-container input{
+    background-color: transparent;
+    width: 40%;
+    border-bottom: 2px solid #110f29;
+}
+#search-container input:focus{
+    border-bottom-color: #6759ff;
+}
+#search-container button{
+    margin-left: 1em;
+    background-color: aqua;
+    column-rule-color: #f5f8ff;
+    border-radius: 5px;
+    margin-top: 0.5em;
+}
+.button-value{
+    border: 2px solid;
+    padding: 1em 2.2em;
+    border-radius: 3em;
+    background-color: transparent;
+    cursor: pointer;
+}
+.active {
+    background-color: aqua;
+    color: #ffff;
+}
+
