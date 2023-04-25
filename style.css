@@ -48,4 +48,10 @@ body{
     background-color: aqua;
     color: #ffff;
 }
+#products{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 1.5em;
+    padding: 2em 0;
+}
 
