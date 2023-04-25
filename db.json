@@ -1,0 +1,76 @@
+{
+    "Data":[
+        {
+            "productName": "white T-shirt",
+            "category": "Top wear",
+            "price": "ksh 700",
+            "image": "https://cf.shopee.ph/file/53956e1fa8fc82d38610de29e43283de"
+        },
+        {
+            "productName": "Stylish Black Trauser",
+            "category": "Bottom Wear",
+            "price": "ksh 1200",
+            "image": "https://scene7.zumiez.com/is/image/zumiez/product_main_medium/Empyre-Verge-Destroyed-Black-Tapered-Skinny-Jeans-_327923-front-US.jpg"
+        },
+        {
+            "productName": "Fancy Short black Skirt",
+            "category": "Bottom Wear",
+            "price": "ksh 1000",
+            "image": "https://images.meesho.com/images/products/58045445/jkyyo_512.jpg"
+        },
+        {
+            "productName": "Ice Rolex watch",
+            "category": "watch",
+            "price": "ksh 5000",
+            "image": "https://m.traxnyc.com/files/img500101638951.jpeg"
+        },
+        {
+            "productName": "Hublot Watch",
+            "category": "watch",
+            "price": "ksh 4999",
+            "image": "https://www.hublot.com/sites/default/files/styles/global_laptop_1x/public/2022-02/big-bang-unico-ledger-42-mm-lifestyle-shot-2_1.jpg?itok=avkUCoRd"
+        },
+        {
+            "productName": "Casio Watch",
+            "category": "watch",
+            "price": "ksh 3499",
+            "image": "https://www.fashionbeans.com/wp-content/uploads/2023/02/mattheram_wearingaA158WA-1DFcasio.jpg"
+        },
+        {
+            "productName": "Fitting Leather Jacket",
+            "category": "jacket",
+            "price": "ksh 3999",
+            "image": "https://static-01.daraz.com.np/p/22a87785adfcd89116090d61227daf97.jpg_720x720.jpg_.webp"
+        },
+        {
+            "productName": "Cotton Black Jacket",
+            "category": "jacket",
+            "price": "ksh 3500",
+            "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/01/250635/1.jpg?4211"
+        },
+        {
+            "productName": "Stylish pink pants",
+            "category": "Bottom Wear",
+            "price": "ksh 1500",
+            "image": "https://cdn.shopify.com/s/files/1/0800/4863/products/pink-regular-fit-dress-pants.jpg?v=1678978400"
+        },
+        {
+            "productName": "Fancy White Top For Ladys",
+            "category": "Top wear",
+            "price": "ksh 1000",
+            "image": "https://tiimg.tistatic.com/fp/1/007/488/women-fancy-white-full-sleeves-crop-top-for-party-and-casual-wear-331.jpg"
+        },
+        {
+            "productName": "Comfy Grey Pants",
+            "category": "Bottom Wear",
+            "price": "ksh 1000",
+            "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ae4e3dfda17b4b6b9829ad23002e436e_9366/adidas_Sportswear_Comfy_and_Chill_Pants_Grey_H45376.jpg"
+        },
+        {
+            "productName": "Blue Shirt",
+            "category": "Top wear",
+            "price": "ksh 999",
+            "image": "https://cdn.shopify.com/s/files/1/0053/5350/4881/products/light-blue-classic-shirt-4.jpg?v=1675248698"
+        }
+    ]
+}
