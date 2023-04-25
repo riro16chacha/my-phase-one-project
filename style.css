@@ -54,4 +54,8 @@ body{
     grid-column-gap: 1.5em;
     padding: 2em 0;
 }
-
+img{
+    max-width: 100%;
+    object-fit: contain;
+    height: 15em;
+}
