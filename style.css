@@ -62,4 +62,11 @@ img{
     object-fit: contain;
     height: 15em;
 }
+@media screen {
+    img{
+        max-width: 100%;
+        object-fit: contain;
+        height: 10em;
+    }
+}
 
