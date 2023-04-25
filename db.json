@@ -71,6 +71,42 @@
             "category": "Top wear",
             "price": "ksh 999",
             "image": "https://cdn.shopify.com/s/files/1/0053/5350/4881/products/light-blue-classic-shirt-4.jpg?v=1675248698"
+        },
+        {
+            "productName": "Black trauser",
+            "category": "Bottom Wear",
+            "price": "ksh 1999",
+            "image": "https://i.pinimg.com/564x/71/d7/3d/71d73d8569ba3afae39cb1a0dcadf670.jpg"
+        },
+        {
+            "productName": "Blazer",
+            "category": "Top wear",
+            "price": "ksh 2000",
+            "image": "https://i.pinimg.com/564x/bb/df/df/bbdfdf7734917dc4335d3cd0e5fa81dc.jpg"
+        },
+        {
+            "productName": "Simple Crochet top",
+            "category": "Top wear",
+            "price": "ksh 700",
+            "image": "https://i.pinimg.com/564x/2e/10/13/2e101312cd39bd18c685045552c853f7.jpg"
+        },
+        {
+            "productName": "Balcenciaga SweatShirt",
+            "category": "Top wear",
+            "price": "ksh 3500",
+            "image": "https://i.pinimg.com/564x/57/4d/ef/574def33c3f9fdf597f41f14df7538f2.jpg"
+        },
+        {
+            "productName": "Moncler Jacket",
+            "category": "Jacket",
+            "price": "ksh 4500",
+            "image": "https://i.pinimg.com/564x/bf/cb/40/bfcb404573c58a3ba513d842f983bb1d.jpg"
+        },
+        {
+            "productName": "Gucci Dress",
+            "category": "Bottom Wear",
+            "price": "ksh 4500",
+            "image": "https://i.pinimg.com/564x/0d/67/4a/0d674aa06656dc17afbb912a75676dc0.jpg"
         }
     ]
 }
