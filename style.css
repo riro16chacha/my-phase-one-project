@@ -6,7 +6,7 @@
     font-family: sans-serif;
 }
 body{
-    background-image: url(https://www.zarla.com/images/zarla-shop-stock-1x1-2400x2400-20220124-jyf4xp648jqxjqcjj9dc.png?crop=1:1,smart&width=250&dpr=2);
+    background-image: url(https://i.pinimg.com/564x/92/fa/0c/92fa0cc8fa1a9b67792ad3b5b989eb91.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -53,6 +53,8 @@ body{
     grid-template-columns: auto auto auto;
     grid-column-gap: 1.5em;
     padding: 2em 0;
+    text-align: center;
+    text-shadow: cornsilk;
 }
 img{
     max-width: 100%;
@@ -60,3 +62,4 @@ img{
     object-fit: contain;
     height: 15em;
 }
+
