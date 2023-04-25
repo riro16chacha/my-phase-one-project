@@ -1,6 +1,7 @@
 const apiUrl = "http://localhost:3000/Data"
 //the apiUrl contains the api containing the db.json data
 
+document.addEventListener("DOMContentLoaded", function() {
 // Fetch the product data from the API
 fetch(apiUrl)
   .then(res => res.json())
@@ -56,4 +57,5 @@ fetch(apiUrl)
       productsDiv.innerHTML = html;
     }
   });
-
+  
+});
