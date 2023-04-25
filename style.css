@@ -69,4 +69,8 @@ img{
         height: 10em;
     }
 }
+#products{
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 1em;
+}
 
