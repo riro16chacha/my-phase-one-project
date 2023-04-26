@@ -16,7 +16,7 @@ Open your browser and navigate to "http://localhost:3000/Data"
 this will direct you to the json Api containing the data displayed on the website.
 
 #Usage.
-To access OUTFIT STORE, simply navigate to the homepage at http://localhost:3000/Data. From there, you can browse the available outfits, filter them by category or price range.
+To access OUTFIT STORE, simply navigate to the homepage at http://localhost:3000/Data. From there, you can browse the available outfits, filter them by category or either price range.
 to view the webpage you can click on the link below,
 http://127.0.0.1:5501/index.html?name=john&email=rirochacha16%40gmail.com&product=product3
 on the webpage you can search items on the serch item provided above and click on the buttons to view the outfits according to their category.
