@@ -2,19 +2,19 @@
     "Data":[
         {
             "productName": "white T-shirt",
-            "category": "Top wear",
+            "category": "Topwear",
             "price": "ksh 700",
             "image": "https://cf.shopee.ph/file/53956e1fa8fc82d38610de29e43283de"
         },
         {
             "productName": "Stylish Black Trauser",
-            "category": "Bottom Wear",
+            "category": "BottomWear",
             "price": "ksh 1200",
             "image": "https://scene7.zumiez.com/is/image/zumiez/product_main_medium/Empyre-Verge-Destroyed-Black-Tapered-Skinny-Jeans-_327923-front-US.jpg"
         },
         {
             "productName": "Fancy Short black Skirt",
-            "category": "Bottom Wear",
+            "category": "BottomWear",
             "price": "ksh 1000",
             "image": "https://images.meesho.com/images/products/58045445/jkyyo_512.jpg"
         },
@@ -50,61 +50,61 @@
         },
         {
             "productName": "Stylish pink pants",
-            "category": "Bottom Wear",
+            "category": "BottomWear",
             "price": "ksh 1500",
             "image": "https://cdn.shopify.com/s/files/1/0800/4863/products/pink-regular-fit-dress-pants.jpg?v=1678978400"
         },
         {
             "productName": "Fancy White Top For Ladys",
-            "category": "Top wear",
+            "category": "Topwear",
             "price": "ksh 1000",
             "image": "https://tiimg.tistatic.com/fp/1/007/488/women-fancy-white-full-sleeves-crop-top-for-party-and-casual-wear-331.jpg"
         },
         {
             "productName": "Comfy Grey Pants",
-            "category": "Bottom Wear",
+            "category": "BottomWear",
             "price": "ksh 1000",
             "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ae4e3dfda17b4b6b9829ad23002e436e_9366/adidas_Sportswear_Comfy_and_Chill_Pants_Grey_H45376.jpg"
         },
         {
             "productName": "Blue Shirt",
-            "category": "Top wear",
+            "category": "Topwear",
             "price": "ksh 999",
             "image": "https://cdn.shopify.com/s/files/1/0053/5350/4881/products/light-blue-classic-shirt-4.jpg?v=1675248698"
         },
         {
             "productName": "Black trauser",
-            "category": "Bottom Wear",
+            "category": "BottomWear",
             "price": "ksh 1999",
             "image": "https://i.pinimg.com/564x/71/d7/3d/71d73d8569ba3afae39cb1a0dcadf670.jpg"
         },
         {
             "productName": "Blazer",
-            "category": "Top wear",
+            "category": "Topwear",
             "price": "ksh 2000",
             "image": "https://i.pinimg.com/564x/bb/df/df/bbdfdf7734917dc4335d3cd0e5fa81dc.jpg"
         },
         {
             "productName": "Simple Crochet top",
-            "category": "Top wear",
+            "category": "Topwear",
             "price": "ksh 700",
             "image": "https://i.pinimg.com/564x/2e/10/13/2e101312cd39bd18c685045552c853f7.jpg"
         },
         {
             "productName": "Balcenciaga SweatShirt",
-            "category": "Top wear",
+            "category": "Topwear",
             "price": "ksh 3500",
             "image": "https://i.pinimg.com/564x/57/4d/ef/574def33c3f9fdf597f41f14df7538f2.jpg"
         },
         {
             "productName": "Moncler Jacket",
-            "category": "Jacket",
+            "category": "jacket",
             "price": "ksh 4500",
             "image": "https://i.pinimg.com/564x/bf/cb/40/bfcb404573c58a3ba513d842f983bb1d.jpg"
         },
         {
             "productName": "Gucci Dress",
-            "category": "Bottom Wear",
+            "category": "BottomWear",
             "price": "ksh 4500",
             "image": "https://i.pinimg.com/564x/0d/67/4a/0d674aa06656dc17afbb912a75676dc0.jpg"
         }
