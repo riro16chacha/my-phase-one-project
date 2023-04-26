@@ -103,10 +103,46 @@
             "image": "https://i.pinimg.com/564x/bf/cb/40/bfcb404573c58a3ba513d842f983bb1d.jpg"
         },
         {
-            "productName": "Gucci Dress",
-            "category": "BottomWear",
+            "productName": "G-shock watch",
+            "category": "watch",
+            "price": "ksh 1500",
+            "image": "https://i.pinimg.com/564x/35/92/4f/35924fa3615b98bfb096ea36a1cc055c.jpg"
+        },
+        {
+            "productName": "Firrelli Watch",
+            "category": "watch",
+            "price": "ksh 1000",
+            "image": "https://i.pinimg.com/564x/91/a1/7e/91a17e3eb01ef2883cc252744a99cfd6.jpg"
+        },
+        {
+            "productName": "CRRJU Watch",
+            "category": "watch",
+            "price": "ksh 3999",
+            "image": "https://i.pinimg.com/564x/1b/72/95/1b72955f3f21f6932fb4a8bd5db54701.jpg"
+        },
+        {
+            "productName": "North Face Jacket",
+            "category": "jacket",
             "price": "ksh 4500",
-            "image": "https://i.pinimg.com/564x/0d/67/4a/0d674aa06656dc17afbb912a75676dc0.jpg"
+            "image": "https://i.pinimg.com/736x/6b/59/9b/6b599bf7120d13816e5e2ecf8983a667.jpg"
+        },
+        {
+            "productName": "HypeBeast Jacket",
+            "category": "jacket",
+            "price": "ksh 5500",
+            "image": "https://i.pinimg.com/564x/17/28/35/1728353df09f1fa8c6bb5b7fe2f388ee.jpg"
+        },
+        {
+            "productName": "Nike Jacket",
+            "category": "jacket",
+            "price": "ksh 5000",
+            "image": "https://i.pinimg.com/564x/9e/1d/d9/9e1dd9b263dae1eeb308d3c79a7df389.jpg"
+        },
+        {
+            "productName": "Denim Skirt",
+            "category": "BottomWear",
+            "price": "ksh 1000",
+            "image": "https://i.pinimg.com/564x/7b/65/8e/7b658eb4da87295f659421e2ab31b947.jpg"
         }
     ]
 }
