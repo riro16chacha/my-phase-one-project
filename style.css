@@ -73,7 +73,7 @@ img{
     }
 }
 #book{
-    background-color: grey;
+    background-color: transparent;
 }
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 h2,label{
