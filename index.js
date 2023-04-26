@@ -60,7 +60,7 @@ fetch(apiUrl)
             //reset form
         }
     })
-    // Function to display products
+    // Function that displays products
     function displayProducts(products) {
       html = '';
       products.forEach(product => {
