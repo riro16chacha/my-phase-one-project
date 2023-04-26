@@ -72,5 +72,41 @@ img{
         height: 10em;
     }
 }
+#book{
+    background-color: grey;
+}
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+h2,label{
+    font-family: 'Montserrat', sans-serif;
+}
+input,select{
+    font-family: 'Open Sans', sans-serif;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+select{
+    width: 100%;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+input[type="submit"]{
+    margin-top: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+input[type="submit"]{
+    background-color: #3e8e41;
+}
+  
+  
 
 
