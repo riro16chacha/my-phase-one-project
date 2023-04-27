@@ -41,27 +41,29 @@ fetch(apiUrl)
       });
 
     });
-    //Add an event Listener for the book form submit button
-    const bookForm = documment.getElementById('book-form');
-    bookForm.addEventListener('submit', (e) => {
-        e.preventDefault();
-        const name = document.getElementById('name').value;
-        const email = document.getElementById('email').value;
-        const productValue = document.getElementById('product').value;
-        const productIndex = products.findIndex(product => product.value === productValue);
-        if (productIndex !== -1) {
-            //update product status to booked and disable button
-            products[productIndex].status = 'booked';
-            const bookedBtn = document.getElementById(`booked-${productValue}`);
-            if (bookedBtn){
-                bookedBtn.disabled = true;
-            }
-            alert('Booked');//display "Booked" message
-            //Display updated products
-            displayProducts(products);
-            //reset form
-        }
-    })
+    // get the book form and the book button
+const bookForm = document.getElementById("book-form");
+const bookButton = document.getElementById("book-button");
+
+// add an event listener to the book button
+bookButton.addEventListener("click", function(event) {
+  // prevent the form from submitting and refreshing the page
+  event.preventDefault();
+
+  // display a message at the top saying "booked successfully"
+  const message = document.createElement("p");
+  message.innerText = "Booked successfully";
+  message.style.backgroundColor = "green";
+  message.style.color = "white";
+  message.style.padding = "10px";
+  message.style.textAlign = "center";
+  const header = document.getElementById("h1");
+  header.parentNode.insertBefore(message, header.nextSibling);
+
+  // reset the form
+  bookForm.reset();
+});
+
     // Function that displays products
     function displayProducts(products) {
       html = '';
