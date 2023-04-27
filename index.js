@@ -39,6 +39,7 @@ fetch(apiUrl)
         // Display filtered products
         displayProducts(products);
       });
+
     });
     //Add an event Listener for the book form submit button
     const bookForm = documment.getElementById('book-form');
@@ -55,6 +56,7 @@ fetch(apiUrl)
             if (bookedBtn){
                 bookedBtn.disabled = true;
             }
+            alert('Booked');//display "Booked" message
             //Display updated products
             displayProducts(products);
             //reset form
